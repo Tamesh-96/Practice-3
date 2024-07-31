@@ -1,0 +1,16 @@
+Daily Task
+
+1. Calendar
+
+2. sprint planning 5 pages- 15m,
+   -all shortcut (visual studio),
+   -menu items-everything,
+   -calendar end to end implementation 
+
+3. Track Change
+  -Control Tools
+  -GIT
+  -GitHub, Bitbucket, bash
+  -Desktop install
+  -Auto merge
+  -Feedback Form
